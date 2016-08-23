@@ -12,4 +12,4 @@ Asio description:
 
 https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTOW0110&knro=&noclose=&lan=e
 
-[target_url=http://jamk-it.github.io/TTOW0110-Advanced-Databases/]
+[target_url=http://jamk-it.github.io/JAMK-IT/TTOW0110-Advanced-Databases/]
